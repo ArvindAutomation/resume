@@ -1,0 +1,10 @@
+SAP ERP ECC 6.0 EhP8
+System Application Products Enterprise Resource Planning Enterprise Central Components version6.0 Enhancement Package version 8
+SAP R/3 merged into ECC 
+3 Applicatio  Areas contain corporate data and many modules/components - ERP Ops. (Logistics), ERP Financial (Accounting), ERP HCM (HR module)
+Other components contain Technical data
+3 main characteristics of SAP ERP - Realtime, components, Integrations
+6 session windows are allowed at a time
+Document stratucture in SAP - Header (doc. classification), Item Overview (List of items), Item Detail
+Document handling option simplified - 1 for create, 2 Change, 3 for display document
+Record and verify business operations via unique number or called as document number
